@@ -1,4 +1,10 @@
 # ASP.NET Core (.NET Framework)
+- task: AzureWebApp@1
+  inputs:
+    azureSubscription: 'Azure subscription 1 (2bb61b45-c7d6-4ff2-8e36-edb5557efeb4)'
+    appType: 'webAppLinux'
+    appName: 'aenz'
+    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
 # Build and test ASP.NET Core projects targeting the full .NET Framework.
 # Add steps that publish symbols, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
@@ -32,3 +38,9 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'push'
+    packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
+    nuGetFeedType: 'internal'
+    publishVstsFeed: '0bcdd4e2-abfb-4a37-92c3-d888b60891fb'
