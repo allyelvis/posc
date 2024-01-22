@@ -1,0 +1,51 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/cpp
+{
+	"name": "C++",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"features": {
+		"ghcr.io/dhoeric/features/act:1": {},
+		"ghcr.io/flexwie/devcontainer-features/op:1": {},
+		"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {},
+		"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {},
+		"ghcr.io/itsmechlark/features/1password:1": {},
+		"ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-edgedevtools.vscode-edge-devtools",
+				"ms-vscode-remote.remote-containers",
+				"formulahendry.dotnet",
+				"formulahendry.dotnet-test-explorer",
+				"ms-dotnettools.vscode-dotnet-runtime",
+				"ms-dotnettools.vscode-dotnet-pack",
+				"nguyenngoclong.asdf",
+				"ms-dotnettools.csharp",
+				"schneiderpat.aspnet-helper",
+				"doggy8088.netcore-snippets",
+				"ShishirRegmi.dot-net-snippets",
+				"YoussefSell.ys-asp-net-core-dev-pack",
+				"GitHub.vscode-pull-request-github",
+				"kodezi.kodezi"
+			]
+		}
+	}
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "gcc -v",
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}

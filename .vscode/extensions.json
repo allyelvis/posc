@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-edgedevtools.vscode-edge-devtools",
+        "ms-vscode-remote.remote-containers",
+        "ms-dotnettools.vscode-dotnet-pack",
+        "schneiderpat.aspnet-helper",
+        "doggy8088.netcore-snippets",
+        "shishirregmi.dot-net-snippets",
+        "github.vscode-pull-request-github",
+        "kodezi.kodezi"
+    ]
+}
