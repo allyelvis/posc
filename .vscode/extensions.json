@@ -7,6 +7,10 @@
         "doggy8088.netcore-snippets",
         "shishirregmi.dot-net-snippets",
         "github.vscode-pull-request-github",
-        "kodezi.kodezi"
+        "kodezi.kodezi",
+        "jchannon.csharpextensions",
+        "xabikos.javascriptsnippets",
+        "wscats.eno",
+        "ms-kubernetes-tools.vscode-kubernetes-tools"
     ]
 }

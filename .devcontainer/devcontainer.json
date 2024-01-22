@@ -29,7 +29,10 @@
 				"ShishirRegmi.dot-net-snippets",
 				"YoussefSell.ys-asp-net-core-dev-pack",
 				"GitHub.vscode-pull-request-github",
-				"kodezi.kodezi"
+				"kodezi.kodezi",
+				"xabikos.JavaScriptSnippets",
+				"Wscats.eno",
+				"ms-kubernetes-tools.vscode-kubernetes-tools"
 			]
 		}
 	}
