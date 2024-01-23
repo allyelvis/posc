@@ -84,7 +84,8 @@
 				"george3447.docker-run",
 				"TqrHsn.vscode-docker-registry-explorer",
 				"ExiaHuang.xycode",
-				"robole.snippets-ranger"
+				"robole.snippets-ranger",
+				"ArthurMiranda.dart-quick-fix"
 			]
 		}
 	}
