@@ -54,6 +54,15 @@
         "lfurzewaddock.vscode-wsl-workspacefolder",
         "iamjava.wsl-split",
         "redhat.vscode-yaml",
-        "youssefsell.ys-asp-net-core-dev-pack"
+        "youssefsell.ys-asp-net-core-dev-pack",
+        "franneck94.c-cpp-runner",
+        "uooobarry.dpm-vscode",
+        "yejune.docker-php-cs-fixer",
+        "delgee.sld-docker-builder",
+        "zim.vsc-docker",
+        "george3447.docker-run",
+        "tqrhsn.vscode-docker-registry-explorer",
+        "exiahuang.xycode",
+        "robole.snippets-ranger"
     ]
 }

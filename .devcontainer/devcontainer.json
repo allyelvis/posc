@@ -74,7 +74,17 @@
 				"ms-vscode-remote.remote-wsl",
 				"lfurzewaddock.vscode-wsl-workspacefolder",
 				"Iamjava.wsl-split",
-				"redhat.vscode-yaml"
+				"redhat.vscode-yaml",
+				"franneck94.c-cpp-runner",
+				"UoooBarry.dpm-vscode",
+				"yejune.docker-php-cs-fixer",
+				"sandipchitale.docker-dive",
+				"delgee.sld-docker-builder",
+				"Zim.vsc-docker",
+				"george3447.docker-run",
+				"TqrHsn.vscode-docker-registry-explorer",
+				"ExiaHuang.xycode",
+				"robole.snippets-ranger"
 			]
 		}
 	}
