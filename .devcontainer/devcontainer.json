@@ -85,7 +85,8 @@
 				"TqrHsn.vscode-docker-registry-explorer",
 				"ExiaHuang.xycode",
 				"robole.snippets-ranger",
-				"ArthurMiranda.dart-quick-fix"
+				"ArthurMiranda.dart-quick-fix",
+				"formulahendry.docker-explorer"
 			]
 		}
 	}
