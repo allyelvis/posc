@@ -64,6 +64,14 @@
         "tqrhsn.vscode-docker-registry-explorer",
         "exiahuang.xycode",
         "robole.snippets-ranger",
-        "haselerdev.aiquickfix"
+        "haselerdev.aiquickfix",
+        "alvaai.alva",
+        "johnpapa.angular2",
+        "airops.airops-data-sidekick",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-dotnettools.csharp",
+        "adrianwilczynski.csharp-to-typescript",
+        "ayushsinghal.code-mate",
+        "moshfeu.compare-folders"
     ]
 }

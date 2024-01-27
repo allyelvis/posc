@@ -86,7 +86,16 @@
 				"ExiaHuang.xycode",
 				"robole.snippets-ranger",
 				"ArthurMiranda.dart-quick-fix",
-				"formulahendry.docker-explorer"
+				"formulahendry.docker-explorer",
+				"adrianwilczynski.add-reference",
+				"adrianwilczynski.blazor-snippet-pack",
+				"adrianwilczynski.csharp-to-typescript",
+				"doggy8088.netcore-editorconfiggenerator",
+				"AlvaAI.Alva",
+				"johnpapa.Angular2",
+				"k--kato.docomment",
+				"AyushSinghal.Code-Mate",
+				"moshfeu.compare-folders"
 			]
 		}
 	}
