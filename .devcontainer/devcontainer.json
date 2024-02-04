@@ -145,7 +145,8 @@
 				"visualstudiotoolsforunity.vstuc",
 				"AndrewButson.vscode-openai",
 				"DotJoshJohnson.xml",
-				"local-smart.excel-live-server"
+				"local-smart.excel-live-server",
+				"DennisMaxJung.vscode-dotnet-auto-attach"
 			]
 		}
 	}
